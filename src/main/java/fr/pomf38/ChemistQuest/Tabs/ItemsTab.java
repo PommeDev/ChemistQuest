@@ -11,4 +11,10 @@ public class ItemsTab {
             return new ItemStack(BaseItems.copperStick.get());
         }
     };
+    public static final CreativeModeTab blocksTab = new CreativeModeTab("blocks_tab") {
+        @Override
+        public ItemStack makeIcon() {
+            return new ItemStack(BaseItems.copperStick.get());
+        }
+    };
 }

@@ -1,10 +1,13 @@
 package fr.pomf38.ChemistQuest;
 
 
+import fr.pomf38.ChemistQuest.block.BasicBlock;
 import fr.pomf38.ChemistQuest.items.BaseItems;
 import fr.pomf38.ChemistQuest.items.Tools;
+import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
+import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -44,6 +47,8 @@ public class ChemistQuest
 
         BaseItems.register(eventBus);
         Tools.register(eventBus);
+        BasicBlock.register(eventBus);
+
     }
 
     private void setup(final FMLCommonSetupEvent event)
