@@ -1,0 +1,10 @@
+{
+
+  "item.chemistquest.copper_stick" : "Copper Stick",
+  "itemGroup.items_tab": "ChemistQuest Item",
+  "item.chemistquest.copper_sword": "Copper Sword",
+  "item.chemistquest.copper_axe": "Copper Axe",
+  "item.chemistquest.copper_pickaxe": "Copper Pickaxe",
+  "item.chemistquest.copper_shovel": "Copper Shovel",
+  "item.chemistquest.copper_hoe": "Copper Hoe"
+}
