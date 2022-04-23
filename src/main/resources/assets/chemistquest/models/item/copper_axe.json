@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "chemistquest:item/copper_axe"
+    "layer0": "chemistquest:item/tools/copper_axe"
   }
 }
 

@@ -8,7 +8,7 @@ import java.util.function.Supplier;
 
 public enum ModItemTier implements Tier {
     //1er tiers du mod le tier copper
-    COPPER(2,200,9.0F,2.25F,13,()-> {
+    COPPER(2,200,4.0F,2.25F,13,()-> {
         return Ingredient.of(BaseItems.copperStick.get());
     });
 

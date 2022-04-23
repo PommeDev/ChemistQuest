@@ -1,10 +1,12 @@
 {
 
   "item.chemistquest.copper_stick" : "Copper Stick",
-  "itemGroup.items_tab": "ChemistQuest Item",
+  "itemGroup.items_tab": "ChemistQuest Items",
+  "itemGroup.blocks_tab": "ChemistQuest Blocks",
   "item.chemistquest.copper_sword": "Copper Sword",
   "item.chemistquest.copper_axe": "Copper Axe",
   "item.chemistquest.copper_pickaxe": "Copper Pickaxe",
   "item.chemistquest.copper_shovel": "Copper Shovel",
-  "item.chemistquest.copper_hoe": "Copper Hoe"
+  "item.chemistquest.copper_hoe": "Copper Hoe",
+  "block.chemistquest.compressed_copper_block": "Compressed Copper Block"
 }
