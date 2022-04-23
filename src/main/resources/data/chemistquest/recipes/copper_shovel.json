@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " x ",
+    " x "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:copper_ingot"
+    },
+    "x": {
+      "item": "chemistquest:copper_stick"
+    }
+  },
+  "result": {
+    "item": "chemistquest:copper_shovel"
+  }
+}

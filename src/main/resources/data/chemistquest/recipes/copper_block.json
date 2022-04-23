@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "chemistquest:compressed_copper_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:copper_block",
+    "count": 9
+  }
+}
